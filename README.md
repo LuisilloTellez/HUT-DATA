@@ -4,6 +4,7 @@ En este repositorio se pretende subir material para que el destinatario, tanto p
 
 La idea es que sea un repositorio vivo, es decir, que continuamente se vaya actualizando, ampliando, revisando fallos, etc.
 
+Con este video de aquí abajo os enseño cómo poner esto en marcha:
 
 ## [Sacarle el mayor partido a este repositorio](https://youtu.be/nWB7tyUtAgo):
 ----
